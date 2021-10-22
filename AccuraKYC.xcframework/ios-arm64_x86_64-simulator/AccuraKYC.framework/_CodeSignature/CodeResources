@@ -54,7 +54,7 @@
 		</data>
 		<key>Headers/NSObject+Constant.h</key>
 		<data>
-		mdD4WZtlJNR6RcANAt7eyvbjojU=
+		4sgZacs4Y5Z0E18dNHn1yFce5HE=
 		</data>
 		<key>Headers/NSObject+Facematch.h</key>
 		<data>
@@ -62,11 +62,11 @@
 		</data>
 		<key>Headers/NSObject+Liveness.h</key>
 		<data>
-		ht8OB0gTFKVkjMBBjiLg5jC/4CI=
+		WqY4ZQ4fDR2Ll+VUZXNQvTXP4T4=
 		</data>
 		<key>Headers/NSObject+PostResult.h</key>
 		<data>
-		fSM+tdwdWwgmRjWRaGdc2Akh7Iw=
+		Shj1dxR8HuRLChWIbMiwoqD4Xlc=
 		</data>
 		<key>Headers/NSObject+userDefaults.h</key>
 		<data>
@@ -106,15 +106,15 @@
 		</data>
 		<key>Liveness.storyboardc/LivenessVC.nib</key>
 		<data>
-		KR1+sR4Kvw+tLBl8+pmhguzwY/8=
+		nbCnwMwpRcsXt9MJkiY/WwRnmBg=
 		</data>
 		<key>Liveness.storyboardc/NavigationViewController.nib</key>
 		<data>
-		xKrzJV7jnOtHvIIUq48+2L5x8F8=
+		MIP4gc6URvu+PmnP/UhPTbobXUs=
 		</data>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<data>
-		z+1EybnrSP60NoISU5WJ57tuHL4=
+		eE/Bq05G1ATdTk2QdjAPVdELKSs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -299,7 +299,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fPdh6gcL8E5u+oYW4v+e1xvU0GM/LqDjJ6AXuL9sfL8=
+			sg5IhvqGagEhAsVtEdxZyChi73bvZIGk7IyY2H/NbgE=
 			</data>
 		</dict>
 		<key>Headers/NSObject+Facematch.h</key>
@@ -313,14 +313,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mNrf6HA6nBi2+QkpwpFuE+7J41wmyhshccU0AmIeu+Y=
+			27BSCuCb76VAom7h8kYSAVSj07+sbGwmB5uy6dPLwCQ=
 			</data>
 		</dict>
 		<key>Headers/NSObject+PostResult.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iJ0D1vpc3Mpn1Ti2qrF24XvgN8fuOSMcakvPq6+MoIA=
+			JoMwHqh/wq9fn5HdEMhswBQXPHoRzzacb3RJ9bxeiyg=
 			</data>
 		</dict>
 		<key>Headers/NSObject+userDefaults.h</key>
@@ -383,21 +383,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6bks4dSzdSdp0zV4uiZh5qaPuDWwcrT0nOJI20NgT3Y=
+			VZYeKQdN6e6Rcoa2bpnr5x5eVMBcR9jSgVNj11oJRRw=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/NavigationViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4xECmpHzKiEfIp/uAuHLV6fVS63gLW4+HlbwTlGFmVc=
+			ao7yn2ytp3izO3Q3Zyij3GwTlTC6DiTtkLHE6+EOkTw=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pa6WkjBATgxa9FybHJK50S3krtlisASFY4Fcva9/vZc=
+			72EilvF233uz9foWjkChP4c4WOsuLTkFc47+42Gu4AE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

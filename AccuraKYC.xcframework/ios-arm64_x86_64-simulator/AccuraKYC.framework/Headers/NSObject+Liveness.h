@@ -83,6 +83,7 @@ NS_ASSUME_NONNULL_BEGIN
 -(void)setButtonStartRecordingIcon:(NSString*)imageName;
 -(void)setCodeTextColor:(NSString*)codeTextColor;
 -(void)setContentType:(ContentType)contentType;
+-(void)setTimeIntervalForURLRequestInSec:(int)timeInterval;
 
 @end
 
