@@ -61,7 +61,7 @@ NS_ASSUME_NONNULL_BEGIN
 //-(void)saveVideoinDocumentDirectory:(bool)isSaveVideo;
 //-(void)setRecordingMessage:(NSString*)recordingMessage;
 //-(void)enableFaceDetect:(bool)isFaceDetect;
-//-(void)fmScoreThreshold:(int)FMMinPer;
+//-(void)fmScoreThreshold:(float)FMMinPer;
 //-(void)enableFaceMatch:(bool)isCheckFMScore;
 //-(void)setfeedBackFMFailMessage:(NSString*)setfeedBackFMFail;
 //-(void)setRecordingTimerTextSize:(CGFloat)textSize;
@@ -84,6 +84,7 @@ NS_ASSUME_NONNULL_BEGIN
 -(void)setCodeTextColor:(NSString*)codeTextColor;
 -(void)setContentType:(ContentType)contentType;
 -(void)setTimeIntervalForURLRequestInSec:(int)timeInterval;
+-(void) setVerificationErrorMessage:(NSString*)VerificationErrorMessage :(NSString*)titleMessage;
 
 @end
 

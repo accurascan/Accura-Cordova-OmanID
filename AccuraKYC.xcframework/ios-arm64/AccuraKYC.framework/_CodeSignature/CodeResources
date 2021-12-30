@@ -42,11 +42,11 @@
 		</data>
 		<key>Headers/LivenessData.h</key>
 		<data>
-		TbxCipns6kTyX01q4kgcSH192kY=
+		o6NPsyc/TMQ8zY94ntI3sG6Z4ZM=
 		</data>
 		<key>Headers/LivenessVC.h</key>
 		<data>
-		zgAx5wmdx6ty1BZBX8TkjDMb/n4=
+		hsUL82GF2BlSBp4SXvYji6OKVZA=
 		</data>
 		<key>Headers/NSFaceRegion.h</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Headers/NSObject+Liveness.h</key>
 		<data>
-		WqY4ZQ4fDR2Ll+VUZXNQvTXP4T4=
+		b71ekNy1tQjQE+tkpApvR8KkkPo=
 		</data>
 		<key>Headers/NSObject+PostResult.h</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Headers/VideoCameraWrapperDelegate.h</key>
 		<data>
-		jWeuWTInxyISSxlCvwBbwpWUXNQ=
+		keX5SQaUtol2+btwmrb5dwQ1aUk=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -102,19 +102,19 @@
 		</data>
 		<key>Liveness.storyboardc/Info.plist</key>
 		<data>
-		kwCZC70n7AQtFvr4/Vfsbpl9EWU=
+		ZczLTQMZq306KsAz4GJXSF+KvcU=
 		</data>
 		<key>Liveness.storyboardc/LivenessVC.nib</key>
 		<data>
-		oNIQA0DbFAIH+uBx4F4fCdGwCMM=
+		Ld41yVbKZ4uUCn80dtVefUaEDKU=
 		</data>
 		<key>Liveness.storyboardc/NavigationViewController.nib</key>
 		<data>
-		TsBC3beGRmqsdz6rtq9XNvwIzT8=
+		rQver95IFfvueeXFiRfJYon6fTI=
 		</data>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<data>
-		Q8rFIFRLIoDkZwBrotOjoN6RTG0=
+		dTalzOzdhX/D/WqcJkBamosmEVI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -278,14 +278,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kUWPNGRkj/GrKBbKOxr+domwjyiDlkG8kDBhgfvyc5s=
+			Ja6aVf9hbvuTM85MLW1qNV8oOWHfyhVtwnAQuU9JA6o=
 			</data>
 		</dict>
 		<key>Headers/LivenessVC.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pFd/HCwc8WhQWHkftPgvO4sI2o/BN3tAr8ZCKvBziBs=
+			BF2ufoKbLbNmzdqFNF3ZraafnFEn7SLfgMpOFf4BDZg=
 			</data>
 		</dict>
 		<key>Headers/NSFaceRegion.h</key>
@@ -313,7 +313,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			27BSCuCb76VAom7h8kYSAVSj07+sbGwmB5uy6dPLwCQ=
+			Z2a8+x/c+kjowKt27wQjkriMd0zPTVXHK+DC4pgxBho=
 			</data>
 		</dict>
 		<key>Headers/NSObject+PostResult.h</key>
@@ -362,7 +362,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XW4zJ1KJ5ARsF201ePIOwNbuMMInjl2eWQaDf8uvXFs=
+			2msoJRSJ2tYiwKFP0lqYdgIYpL5am32yoVybxvzpTvA=
 			</data>
 		</dict>
 		<key>LICENSE.txt</key>
@@ -376,28 +376,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1Hn1OBOYkz1QQQXNpJQR7sZzVMgIdVmzfY+Kpg2XBVs=
+			U3Tem5h0OVi9a35w5vGFMxmXOdAq2JJ+rxMachoCvT4=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/LivenessVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bddSELzRp3jCmEiBM5EFZ0/jKWU0xG7RABpB5hlsJmc=
+			hBcgjuP2Y0H5fz5hyv1tAu3yBrDBbSY/I98McZpnj8k=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/NavigationViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PUeskk041vysIrFU6WiqOKkdmYm9kLnJ6fN9mr71GWg=
+			s1EarY08z+mDkB6p0dglyhqEUeIo0soQWVCLXZdOC6w=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sqWhvfDbkSLrwxbfnUXgjDtpQBEnEk1d0yN+uEbxlT0=
+			/Hw24+SEujz5+LY41Xj7LIdnD/ozAg+6/kgiFDBF8JE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
