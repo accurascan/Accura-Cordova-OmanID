@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		4U9XpafKLW7DwStkewNH4Nr2HHc=
+		IMsjZufWS8GD3yv8EM2OGEhEK/4=
 		</data>
 		<key>Headers/AccuraCameraWrapper.h</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Z3dQGhkwLYe3BdgH8FbXn5Tu5zk=
+		t18CCtjnn76KGDMNcRj70tjPozg=
 		</data>
 		<key>LICENSE.txt</key>
 		<data>
@@ -102,23 +102,27 @@
 		</data>
 		<key>Liveness.storyboardc/Info.plist</key>
 		<data>
-		kwCZC70n7AQtFvr4/Vfsbpl9EWU=
+		ZczLTQMZq306KsAz4GJXSF+KvcU=
 		</data>
 		<key>Liveness.storyboardc/LivenessVC.nib</key>
 		<data>
-		z8w02U+aFtoa0i4YazgplS4eNuo=
+		yaS+5wQSD8YRF9gHUSPbMpaUO2o=
 		</data>
 		<key>Liveness.storyboardc/NavigationViewController.nib</key>
 		<data>
-		dTK32iHGCEoejcjg4H6f6U45zF4=
+		qkPdZlbTgm0KOp/m/eYecMyHAYM=
 		</data>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<data>
-		CbHts2/f1knK5+tQLmAB2vgOldk=
+		kW3zS6NIuuPZzbUabHevGvmzjUA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		PQErQ5/EL35QemscIqG6CCr6CG0=
+		fFSo2IdNj8iYpjeB2szh0Q0gerM=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		i3YpomTpJHpRGpdt+oGaesmknBg=
 		</data>
 		<key>SVProgressHUD.bundle/angle-mask.png</key>
 		<data>
@@ -215,7 +219,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dNRvovZN48+0FIz0BqFCzsQRoRlRYXkrEaN6mrLHmrM=
+			O7tXISZUrEoPP9b7U6oa9rNouyPTLDBGJJM7kU49Tnc=
 			</data>
 		</dict>
 		<key>Headers/AccuraCameraWrapper.h</key>
@@ -376,35 +380,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1Hn1OBOYkz1QQQXNpJQR7sZzVMgIdVmzfY+Kpg2XBVs=
+			U3Tem5h0OVi9a35w5vGFMxmXOdAq2JJ+rxMachoCvT4=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/LivenessVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Mdq/OdZXaWlb9j1Ap2bErUMz1RfzvpAjjOEH4olfMug=
+			hnPy79rxY+kn24xdMY6Zr2cZUXgBq/uaoRyJEULCFNQ=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/NavigationViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+Dde+NyPfBVgIgHdHQ43ld9Xw3fI5I9EArQccl0hmDU=
+			aiNE8inFXi817znd8XbWrgYbeFF42zmdrBZyUxMsJP4=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AguPO1kAL3SvSYNrZVP2EwkF4dITvHMrftoyZAVQGEY=
+			OE5uWoIg2dT3oqoV1bZNt7c9IEA6PU36FwmCsETK6K0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wN2cUgOwkwMOt73xG/+Ytlq9ZyNDyIxNA7ape87QW7U=
+			fEJtoCzQIARZNHU4uBBwXI4ug9c0Krkw7tbNt4rAss4=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jWXQtDoSYs/inoM5bACz25T7Eg1E0RiNknNB8UpsIjw=
 			</data>
 		</dict>
 		<key>SVProgressHUD.bundle/angle-mask.png</key>

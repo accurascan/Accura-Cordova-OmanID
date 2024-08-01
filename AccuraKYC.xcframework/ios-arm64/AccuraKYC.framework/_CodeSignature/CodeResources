@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		RhvOq8b6sBXXgEa4hEw/AG5zZD8=
+		85mV0QRIpH7A8eEiU8KhgtX/h/Q=
 		</data>
 		<key>Headers/AccuraCameraWrapper.h</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		JCj7iaY2Rh5n06kW9j+vQVLnRCc=
+		6zqmM4Pk/BIEi0dgpxNVWNGHd2A=
 		</data>
 		<key>LICENSE.txt</key>
 		<data>
@@ -106,19 +106,23 @@
 		</data>
 		<key>Liveness.storyboardc/LivenessVC.nib</key>
 		<data>
-		Ld41yVbKZ4uUCn80dtVefUaEDKU=
+		yaS+5wQSD8YRF9gHUSPbMpaUO2o=
 		</data>
 		<key>Liveness.storyboardc/NavigationViewController.nib</key>
 		<data>
-		rQver95IFfvueeXFiRfJYon6fTI=
+		qkPdZlbTgm0KOp/m/eYecMyHAYM=
 		</data>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<data>
-		dTalzOzdhX/D/WqcJkBamosmEVI=
+		kW3zS6NIuuPZzbUabHevGvmzjUA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		PQErQ5/EL35QemscIqG6CCr6CG0=
+		fFSo2IdNj8iYpjeB2szh0Q0gerM=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		i3YpomTpJHpRGpdt+oGaesmknBg=
 		</data>
 		<key>SVProgressHUD.bundle/angle-mask.png</key>
 		<data>
@@ -215,7 +219,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IOa9KbmgPdvfP6SoMYDZ8Aekb7cWzUUoBiHkemoyKcs=
+			yfbnFAkBAKSLKvQW8XPuZTw7Jl4xUaoqvzRWUAVYZYE=
 			</data>
 		</dict>
 		<key>Headers/AccuraCameraWrapper.h</key>
@@ -383,28 +387,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hBcgjuP2Y0H5fz5hyv1tAu3yBrDBbSY/I98McZpnj8k=
+			hnPy79rxY+kn24xdMY6Zr2cZUXgBq/uaoRyJEULCFNQ=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/NavigationViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			s1EarY08z+mDkB6p0dglyhqEUeIo0soQWVCLXZdOC6w=
+			aiNE8inFXi817znd8XbWrgYbeFF42zmdrBZyUxMsJP4=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/Hw24+SEujz5+LY41Xj7LIdnD/ozAg+6/kgiFDBF8JE=
+			OE5uWoIg2dT3oqoV1bZNt7c9IEA6PU36FwmCsETK6K0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wN2cUgOwkwMOt73xG/+Ytlq9ZyNDyIxNA7ape87QW7U=
+			fEJtoCzQIARZNHU4uBBwXI4ug9c0Krkw7tbNt4rAss4=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jWXQtDoSYs/inoM5bACz25T7Eg1E0RiNknNB8UpsIjw=
 			</data>
 		</dict>
 		<key>SVProgressHUD.bundle/angle-mask.png</key>
