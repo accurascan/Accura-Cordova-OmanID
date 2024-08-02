@@ -12,6 +12,7 @@
 
 @protocol FacematchData <NSObject>
 -(void) FacematchData:(UIImage*)FaceImage;
+-(void) FacematchData:(UIImage*)FaceImage FaceImage2:(UIImage*)FaceImage2 FaceImage3:(UIImage*)FaceImage3;
 -(void) FacematchViewDisappear;
 @end
 

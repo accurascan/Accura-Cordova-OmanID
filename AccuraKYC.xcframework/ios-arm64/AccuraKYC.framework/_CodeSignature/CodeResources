@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		9pXwW/604APMViit0NqoZyDBNk0=
+		Bv0EHbgvkvBnR0kkOPq2MJMLTMQ=
 		</data>
 		<key>Headers/AccuraCameraWrapper.h</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Headers/FacematchData.h</key>
 		<data>
-		D50vAfRAsCzLjp9XFkpjH83teaI=
+		lTuzTpcyy3u+f4sskSyaUtN22kA=
 		</data>
 		<key>Headers/GlobalMethods.h</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Headers/VideoCameraWrapperDelegate.h</key>
 		<data>
-		keX5SQaUtol2+btwmrb5dwQ1aUk=
+		+ZpAmmQNBqsCrNHfUsOX6lfm8LA=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -219,7 +219,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ze52JoIAJYJ8cPJ2tCdrckODbJzIEjxgqnlcGiijenA=
+			rcCkJobi4lk6tUsC6ap9f+vW1LE7bNsL/6Q3Wb1rJRU=
 			</data>
 		</dict>
 		<key>Headers/AccuraCameraWrapper.h</key>
@@ -261,7 +261,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			F6yoqaUlzYwIllXsXvXFMlJPwqJ6RAIT3SypFM3qX2U=
+			P7VNiTNPuevjuLFzoFCxQmC4vmwp1i8XuVt3My1d2AU=
 			</data>
 		</dict>
 		<key>Headers/GlobalMethods.h</key>
@@ -366,7 +366,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2msoJRSJ2tYiwKFP0lqYdgIYpL5am32yoVybxvzpTvA=
+			i8WtbKoy2CM2TbRb6HLI+hchOYU5/tpCoO2R00nL/rI=
 			</data>
 		</dict>
 		<key>LICENSE.txt</key>
